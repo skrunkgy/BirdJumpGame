@@ -1,0 +1,21 @@
+canvas {
+	margin: auto;
+	display: block;
+	border: 1px solid black;
+}
+
+.rainbow-text {
+	background-image: linear-gradient(to right, red, orange, yellow, green, blue, purple, magenta);
+	-webkit-text-fill-color: transparent;
+	-webkit-background-clip: text;
+	width: 300px;
+	margin: auto;
+}
+
+h1 {
+	font-family: Arial;
+}
+
+p {
+	font-family: Arial;
+}
