@@ -13,3 +13,6 @@ Some changes I have made were some formatting, and I added an icon by grabbing a
 You can either:
 - Git clone this project, and then display the index.html file in your browser like so: `file://path/to/index.html`
 - Play it on my Itch.io page [here](https://skrunkgy.itch.io/bird-jump-game).
+
+<img width="800" height="547" alt="image" src="https://github.com/user-attachments/assets/141e0a0d-ba0d-4f17-bc73-0684afb522f8" /><br>
+Have fun :))
